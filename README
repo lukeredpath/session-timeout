@@ -1,4 +1,4 @@
-NOTE: This is a Rails plugin that I wrote over 2 years ago. I doubt very much that it works with Rails 2.x but it probably could with a bit of work - if you want to try, feel free to fork (I may attempt to update it if I find the time).
+UPDATE: Despite its age, this plugin still works with Rails 2 - if you have any problems, send me a message.
 
 SessionTimeout
 =============
